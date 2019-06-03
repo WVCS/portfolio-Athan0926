@@ -1,0 +1,21 @@
+li a {display: block;
+color: #FF6F59;
+text-align: center;
+padding: 14px 16px;
+text-decoration:none;
+font-family: Helvetica;
+}
+li{float:left;
+}
+li a:hover {
+  background-color:#D0CCD0;
+}
+ul {list-style:none;
+Margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:#EFCB68;
+  postion: fixed;
+  width: 100%;
+  top: 0;
+}
